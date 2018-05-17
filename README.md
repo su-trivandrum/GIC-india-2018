@@ -10,8 +10,8 @@ Event co-ordination and planning repo.
 - [Registration Link][reg]
 - [Promo Video][video]
 
-[web]:
+[web]: a
 [su]: https://su.org/
-[sutrv]:
-[reg]:
-[video]:
+[sutrv]: a
+[reg]: a
+[video]: a
