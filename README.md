@@ -10,6 +10,8 @@ Event co-ordination and planning repo.
 - [Registration Link][reg]
 - [Promo Video][video]
 - [Meeting Minutes][Minutes]
+- [Checklist][Checklist]
+- [KPIs][KPIs]
 
 [web]: a
 [su]: https://su.org/
@@ -17,3 +19,6 @@ Event co-ordination and planning repo.
 [reg]: a
 [video]: a
 [Minutes]: https://github.com/su-trivandrum/GIC-india-2018/tree/master/minutes
+[Checklist]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
+[KPIs]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
+
