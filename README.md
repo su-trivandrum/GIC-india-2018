@@ -22,4 +22,4 @@ Event co-ordination and planning repo.
 [Minutes]: https://github.com/su-trivandrum/GIC-india-2018/tree/master/minutes
 [Checklist]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
 [KPIs]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
-
+[ps]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
