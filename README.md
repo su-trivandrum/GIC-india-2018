@@ -21,5 +21,6 @@ Event co-ordination and planning repo.
 [video]: https://vimeo.com/118085554
 [Minutes]: https://github.com/su-trivandrum/GIC-india-2018/tree/master/minutes
 [Checklist]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
-[KPIs]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
+[KPIs]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/kpis.md
 [ps]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
+[suggestions]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/suggestions.md
