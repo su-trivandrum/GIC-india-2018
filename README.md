@@ -13,6 +13,7 @@ Event co-ordination and planning repo.
 - [Checklist][Checklist]
 - [KPIs][KPIs]
 - [Problem Statements][ps]
+- [Suggestions][suggestions]
 
 [web]: https://su.org/gic/india-2018/
 [su]: https://su.org/
