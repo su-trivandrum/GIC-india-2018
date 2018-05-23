@@ -1,27 +1,17 @@
 ![Global Impact Challenge, India 2018](https://su.org/wp-content/uploads/2018/02/singularity_u_india_global_impact_challenge_white_2_lines_md.png)
+
 # Global Impact Challenge, India 2018
+
 Event co-ordination and planning repo.
 
 ## Links
 
-- [Web page][web]
-- [Singularity University][su]
-- [Singularity University Trivandrum Chapter][sutrv]
-- [Registration Link][reg]
-- [Promo Video][video]
-- [Meeting Minutes][Minutes]
-- [Checklist][Checklist]
-- [KPIs][KPIs]
-- [Problem Statements][ps]
 - [Suggestions][suggestions]
+- [Checklist][cl]
+- [KPI][kpis]
+- [Minutes][mins]
 
-[web]: https://su.org/gic/india-2018/
-[su]: https://su.org/
-[sutrv]: https://singularityuglobal.org/chapters/trivandrum
-[reg]: https://singularityu-india-gic.slideroom.com/#/login/program/42056
-[video]: https://vimeo.com/118085554
-[Minutes]: https://github.com/su-trivandrum/GIC-india-2018/tree/master/minutes
-[Checklist]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
-[KPIs]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/kpis.md
-[ps]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/checklist.md
-[suggestions]: https://github.com/su-trivandrum/GIC-india-2018/blob/master/suggestions.md
+[cl]: /checklist.html
+[suggestions]: /suggestions.html
+[kpis]: /kpis.html
+[mins]: /minutes/
