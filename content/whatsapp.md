@@ -11,7 +11,7 @@ SU hosted 119 GICs since 2010, spread across 45 countries.
 
 Read more about SingularityU Global Impact Challenges here -
 
-[https://su.org/gic/][giclink]
+https://su.org/gic/
 
 So, are you an individual, a team or a startup wanting to build a better tomorrow? Take up the SingularityU India Global Impact Challenge.
 
@@ -52,12 +52,8 @@ So, are you an individual, a team or a startup wanting to build a better tomorro
 		--- Time: 11.00 am - 12.00 pm
 		--- Date: May 28
 
-Register for Road Show here - [https://docs.google.com/forms/d/1j4QpVV1lCTMv3gBfZwemBBi_0MyKAp8FbV-8P5fwiXg/viewform?edit_requested=true][roadshowlink]
+Register for Road Show here - https://docs.google.com/forms/d/1j4QpVV1lCTMv3gBfZwemBBi_0MyKAp8FbV-8P5fwiXg/viewform?edit_requested=true
 
-More details about Global Impact Challenge India - [https://su.org/GIC/INDIA-2018/][gicindia]
+More details about Global Impact Challenge India - https://su.org/GIC/INDIA-2018/
 
 Join our WhatsApp Group - www.bit.ly/gicindia2018
-
-[giclink]: [https://su.org/gic/]
-[roadshowlink]: [https://docs.google.com/forms/d/1j4QpVV1lCTMv3gBfZwemBBi_0MyKAp8FbV-8P5fwiXg/viewform?edit_requested=true]
-[gicindia]: [https://su.org/GIC/INDIA-2018/]
