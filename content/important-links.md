@@ -24,3 +24,6 @@ https://www.eventbrite.com/o/singularityu-trivandrum-chapter-15195741777
 
 ### Know more about GIC
 https://su.org/gic/
+
+### GIC Trivandrum Video
+https://youtu.be/v9Pn4_ObAv4
