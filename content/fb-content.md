@@ -4,15 +4,13 @@
 
 https://youtu.be/v9Pn4_ObAv4
 
-The earth does not belong to us, we belong to the earth.
-Our world is growing big, Technology has made it small
-The time is now changing again, everyone is thinking big to make a global impact. But are you thinking right? 
-Mother earth is on the verge of extinction,  Humanity is degrading, Do you have any concern?
- Let's discover the next big thing together, with technologically innovative solutions, to solve grand problems of the world. 
-Get involved in the big ideas of your time at SingularityU Global Impact Challege, Trivandrum
+The earth doesn't belong to us, we belong to the earth! Mother earth is on the verge of extinction and humanity is degrading. Do you have any concern? 
+
+Let's discover the next big thing together, with technologically innovative solutions, to solve humanities grand challenges and protect the world against the digital divide. Get involved in the biggest ideation contest of your time at SingularityU Global Impact Challenge, Trivandrum
 
 If you have that BIG IDEA to solve problems in the sector of #learning #health #Environment be part of the Global Impact Challenge - Apply Now https://su.org/gic/india-2018/
 
+#GICTrivandrum #GIC #KSUM #SUTrivandrum
 
 ### 2. General content
 
